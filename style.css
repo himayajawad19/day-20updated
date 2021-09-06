@@ -1,0 +1,43 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: rgb(85, 67, 42);
+}
+h1 {
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  text-align: justify;
+  margin-top: 250px;
+  background-color: rgba(210, 180, 140, 0.589);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px 10px;
+  color: wheat;
+  width: auto;
+}
+
+.container1 {
+  display: flex;
+}
+.container2 {
+  image-rendering: auto;
+  display: inline-flex;
+  margin-left: 250px;
+}
+input {
+  border-style: solid;
+  /* border-color: rgba(54, 20, 4, 0.459); */
+  padding: 10px;
+  margin: 0px;
+}
+button {
+  padding: 10px;
+  margin: 0px;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: rgba(54, 20, 4, 0.397);
+  border-color: rgba(54, 20, 4, 0.459);
+  color: beige;
+}
